@@ -16,3 +16,6 @@ python setup.py install
 
 
 **** Need to install Homebrew: brew install git-lfs for the large files to be able to push to Github
+
+
+*** Must add *.csv to gitignore as you will not be able to commit these season files to github all files >50mb
