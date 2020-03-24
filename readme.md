@@ -37,3 +37,20 @@ p_throwswhich hand pitcher throws with. Single character, R or L
 pitcher_idplayer ID of the pitcher. Given by MLB, player names found in player_names.csv
 standwhich side batter hits on. Single character, R or L
 topTrue if it's the top of the inning, False if it's the bottom
+
+
+Acquire:
+Downloaded the data set via Kaggle: https://www.kaggle.com/pschale/mlb-pitch-data-20152018
+
+plan of attack:
+(try a neural network) 
+Predict pitches: 1=fastball 2= offspeed 3= Breaking pitch
+
+1. run a prediction based on just the count
+2. " ", runners on base
+3. " ", score
+4. " ", inning, pitch count
+4. " ", handness of batter
+
+5. " ", isolate catcher 
+(Hypothesis)
