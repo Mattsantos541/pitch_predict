@@ -54,3 +54,6 @@ Predict pitches: 1=fastball 2= offspeed 3= Breaking pitch
 
 5. " ", isolate catcher 
 (Hypothesis)
+
+
+do 15/16 and test on 17
