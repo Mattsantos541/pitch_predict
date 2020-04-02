@@ -39,6 +39,21 @@ standwhich side batter hits on. Single character, R or L
 topTrue if it's the top of the inning, False if it's the bottom
 
 
+At Bat Columns
+
+ab_idat - bat ID. First 4 digits are year. Matches with ab_id in pitches.csv
+batter_id - player ID of the batter. Given by MLB, player names found in player_names.csv
+event - description of the result of the at-bat
+g_id - game ID. First 4 digits are year
+inning - inning number
+o - number of outs after this at-bat
+p_score - score for the pitcher's team
+p_throws - which hand pitcher throws with. Single character, R or L
+pitcher_idplayer ID of the pitcher. Given by MLB, player names found in player_names.csv
+stand - which side batter hits on. Single character, R or L
+topTrue - if it's the top of the inning, False if it's the bottom
+
+
 Acquire:
 Downloaded the data set via Kaggle: https://www.kaggle.com/pschale/mlb-pitch-data-20152018
 
