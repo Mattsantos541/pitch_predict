@@ -53,6 +53,21 @@ pitcher_idplayer ID of the pitcher. Given by MLB, player names found in player_n
 stand - which side batter hits on. Single character, R or L
 topTrue - if it's the top of the inning, False if it's the bottom
 
+1= Fastball 2= Offspeed 3= Breaking Ball
+Pitch Type Definitions
+* CH - Changeup
+* CU - Curveball
+* FC - Cutter
+* FF - Four-seam Fastball
+* FS - Splitter
+* FT - Two-seam Fastball
+* IN - Intentional ball
+* KC - Knuckle curve
+* KN - Knuckeball
+* PO - Pitchout
+* SC - Screwball
+* SI - Sinker
+* SL - Slider
 
 Acquire:
 Downloaded the data set via Kaggle: https://www.kaggle.com/pschale/mlb-pitch-data-20152018
