@@ -55,19 +55,15 @@ topTrue - if it's the top of the inning, False if it's the bottom
 
 1= Fastball 2= Offspeed 3= Breaking Ball
 Pitch Type Definitions
-* CH - Changeup- 2
-* CU - Curveball- 3
+* FT - Two-seam Fastball- 1
 * FC - Cutter- 1
 * FF - Four-seam Fastball- 1
-* FS - Splitter2
-* FT - Two-seam Fastball- 1
-* IN - Intentional ball
-* KC - Knuckle curve- 3
-* KN - Knuckeball- take out knuckleball
-* PO - Pitchout
-* SC - Screwball- 3
 * SI - Sinker-1
+* FS - Splitter2
+* CH - Changeup- 2
 * SL - Slider- 3
+* KC - Knuckle curve- 3
+* CU - Curveball- 3
 
 Acquire:
 Downloaded the data set via Kaggle: https://www.kaggle.com/pschale/mlb-pitch-data-20152018
