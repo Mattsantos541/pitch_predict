@@ -58,8 +58,8 @@ Pitch Type Definitions
 * FT - Two-seam Fastball- 1
 * FC - Cutter- 1
 * FF - Four-seam Fastball- 1
-* SI - Sinker-1
-* FS - Splitter2
+* SI - Sinker- 1
+* FS - Splitter- 2
 * CH - Changeup- 2
 * SL - Slider- 3
 * KC - Knuckle curve- 3
