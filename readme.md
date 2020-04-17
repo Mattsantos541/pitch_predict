@@ -72,9 +72,9 @@ plan of attack:
 (try a neural network) 
 Predict pitches: 1=fastball 2= offspeed 3= Breaking pitch
 
-1. run a prediction based on just the count
-2. " ", runners on base
-3. " ", score
+1. run a prediction based on just the count- LR MVP .43
+2. " ", runners on base- LR=.42
+3. " ", score- LR=.42
 4. " ", inning, pitch count
 4. " ", handness of batter
 
