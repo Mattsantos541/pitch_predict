@@ -22,7 +22,7 @@ python setup.py install
 
 
 
-
+Will use 2015-2017 seasons of the top 50 pitchers
 
 
 Data Dictionary
@@ -82,4 +82,3 @@ Predict pitches: 1=fastball 2= offspeed 3= Breaking pitch
 (Hypothesis)
 
 
-do 15/16 and test on 17
